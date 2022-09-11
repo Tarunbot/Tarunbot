@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tarunbot
 - 👀 I’m interested in Softwares
 - 🌱 I’m currently learning FULL STACK DEVELOPMENT/DATA SCIENTIST
-- 💞️ I’m looking to collaborate with some PRODUCT BASED MNC'S
+- 💞️ I’m looking to collaborate with some PRODUCT BASED Tech's
 - 📫 How to reach me You can reach me by mailing me at rajpurohittarun5@gmail.com
 
 <!---
