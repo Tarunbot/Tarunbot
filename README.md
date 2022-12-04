@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tarunbot
 - 👀 I’m interested in Softwares
-- 🌱 I’m currently learning FULL STACK DEVELOPMENT/DATA SCIENTIST
-- 💞️ I’m looking to collaborate with some PRODUCT BASED Tech's
+- 🌱 I’m currently pursuing ME CSE from BITS,PILANI(Goa Campus)
 - 📫 How to reach me You can reach me by mailing me at rajpurohittarun5@gmail.com
 
 <!---
