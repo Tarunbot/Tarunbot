@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tarunbot
-- 👀 I’m interested in Softwares
-- 🌱 I’m currently pursuing ME CSE from BITS,PILANI(Goa Campus)
+- 🌱 ME CSE from BITS,PILANI(Goa Campus)
 - 📫 How to reach me You can reach me by mailing me at rajpurohittarun5@gmail.com
 
 <!---
