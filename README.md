@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Tarunbot
 - 🌱 ME CSE from BITS,PILANI(Goa Campus)
 - 📫 How to reach me You can reach me by mailing me at rajpurohittarun5@gmail.com
+- Founder@ notium.in
 
 <!---
 Tarunbot/Tarunbot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
